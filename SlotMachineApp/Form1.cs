@@ -1,4 +1,5 @@
-﻿// The application should let the user enter into a Textbox the amount of money he/she is inserting into the machine. When the user clicks the spin button, the application should display 2 randomly selected symbols. 
+﻿// Nelson Lamounier Leao - 10351682
+// The application should let the user enter into a Textbox the amount of money he/she is inserting into the machine. When the user clicks the spin button, the application should display 2 randomly selected symbols. 
 // If none of the randomly displayed images match the program should inform the user that he/she has won €0. If 2 of the images match, the program should inform the user that he/she has won 2 times the amount entered.
 // If 3 images match, the system should inform the user that the user has won 3 times the amount entered. 
 // When the user clicks the exit button to exit the application the program should display the total amount of money entered into the slot machine and the total won. 
